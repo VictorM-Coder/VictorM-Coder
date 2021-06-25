@@ -1,7 +1,4 @@
--Olá, sou Victor Martins
-
- -Cursando: Engenharia de software
- 
- -Aprendendo: Java, JavaScript, HTML, CSS e MySQL
+-Olá, sou Victor Martins, e estou cursando engenharia de software.
+Tecnologias: HTML5, CSS3, JavaScript, Java e MySQL.
  
  
