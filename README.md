@@ -14,7 +14,7 @@ Oi! Eu sou Victor, um estudante de programação que está trilhando o seu camin
 * CSS3
 * JavaScript
 
-## Conhecimentos Extras
+## 🧠Conhecimentos Extras
 * Domínio intermediário em Pacote Office 
 * Estudando: Edição de vídeos com Premiere Pro
 * Domínio básico de Photoshop
