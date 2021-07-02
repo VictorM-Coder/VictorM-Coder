@@ -19,4 +19,4 @@ Oi! Eu sou Victor, um estudante de programação que está trilhando o seu camin
 * Estudando: Edição de vídeos com Premiere Pro
 * Domínio básico de Photoshop
 * Introdução a psicologia das cores e dos tipos
-* Nível de inglês
+* Nível básico-intermediário de inglês
