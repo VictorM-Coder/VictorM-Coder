@@ -15,15 +15,13 @@ Oi! Eu sou Victor, um estudante de programação que está trilhando o seu camin
   <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="45" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
- 
-## 🎓 Apredizado
-* Cursando Engenharia de Software na UFC
-* Técnico em Administração pela EEEP Alfredo Nunes de Melo
 
-## 🧠 Conhecimentos Extras
-* Domínio do Pacote Office 
-* Estudando: Edição de vídeos com Premiere Pro
-* Domínio básico de Photoshop
-* Introdução a psicologia das cores e dos tipos
-* Nível intermediário de inglês
+##
+
+## 📝 Contato
+<div>
+  <a href="https://www.instagram.com/iam_victor.martins/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/victor-martins-230864233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</div>
