@@ -3,6 +3,7 @@
 Oi! Eu sou Victor, um estudante de programação que está trilhando o seu caminho na busca de se tornar um grande programador. Sempre fiquei adimirado com personagens de histórias fantásticas, suas aventuras, feitos - e acima de tudo - seus incríveis poderes. Sonhava em ser como eles, e ao perceber o pontecial da tecnologia, senti que era capaz de torná-la meu próprio poder e a utilizar para tornar o mundo um lugar melhor.
 
 ## :white_check_mark: Stats
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorM-Coder&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Coder&layout=compact&show_icons=true&theme=tokyonight" /> 
