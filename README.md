@@ -1,6 +1,6 @@
 # Olá, Mundo! Eu sou Victor Martins
 ## 😀 Sobre mim
-Oi! Eu sou Victor, um estudante de programação que está trilhando o seu caminho na busca de se tornar um grande programador. Sempre fiquei adimirado com personagens de histórias fantásticas, suas aventuras, feitos - e acima de tudo - seus incríveis poderes. Sonhava em ser como eles, e ao perceber o pontecial da tecnologia, senti que era capaz de torná-la meu próprio poder e a utilizar para tornar o mundo um lugar melhor.
+Oi! Eu sou Victor, um estudante de programação que está trilhando o seu caminho na busca de se tornar um grande programador. Sempre fiquei adimirado com personagens de histórias fantásticas, suas aventuras, feitos - e acima de tudo - seus incríveis poderes. Sonhava em ser como eles, e ao perceber o pontecial da tecnologia, senti que era capaz de torna-la meu próprio poder e a utilizar para tornar o mundo um lugar melhor.
 
 ## :white_check_mark: Stats
 
