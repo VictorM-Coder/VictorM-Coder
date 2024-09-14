@@ -27,6 +27,5 @@ Oi! Eu sou Victor, um estudante de programação que está trilhando o seu camin
 
 ## 📝 Contato
 <div>
-  <a href="https://www.instagram.com/iam_victor.martins/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/victor-martins-230864233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </div>
