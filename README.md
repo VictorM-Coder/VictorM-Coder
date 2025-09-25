@@ -1,12 +1,5 @@
 # 👋 Olá, Mundo! Eu sou Victor Martins
 
-### 📝 Apresentação
-Oi! Eu sou Victor, um estudante de programação que está trilhando o seu caminho na busca de se tornar um grande programador. Sempre fiquei adimirado com personagens de histórias fantásticas, suas aventuras, feitos, e acima de tudo, seus incríveis poderes. Sonhava em ser como eles, e ao perceber o pontecial da tecnologia, senti que era capaz de torna-la meu próprio poder e a utilizar para tornar o mundo um lugar melhor.
-
-### 💼 Sobre Mim
-Graduado em Engenharia de Software na UFC, com experiência prática em desenvolvimento full stack e arquitetura cliente-servidor. Atuei em projetos de impacto para instituições de ensino, pesquisa e empresas, aplicando boas práticas de desenvolvimento, metodologias ágeis e foco em qualidade de software. Interesse em gamificação, experiência do usuário e liderança técnica.
-
-## 📌 Fale Comigo
 <div>
  <a href="https://www.linkedin.com/in/victor-martins-230864233/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
@@ -20,6 +13,14 @@ Graduado em Engenharia de Software na UFC, com experiência prática em desenvol
     <img src="https://img.shields.io/github/followers/VictorM-Coder?label=Follow&style=for-the-badge&logo=github" height="50" />
   </a>
 </div>
+
+### 📝 Apresentação
+Oi! Eu sou Victor, um estudante de programação que está trilhando o seu caminho na busca de se tornar um grande programador. Sempre fiquei adimirado com personagens de histórias fantásticas, suas aventuras, feitos, e acima de tudo, seus incríveis poderes. Sonhava em ser como eles, e ao perceber o pontecial da tecnologia, senti que era capaz de torna-la meu próprio poder e a utilizar para tornar o mundo um lugar melhor.
+
+### 💼 Sobre Mim
+Graduado em Engenharia de Software na UFC, com experiência prática em desenvolvimento full stack e arquitetura cliente-servidor. Atuei em projetos de impacto para instituições de ensino, pesquisa e empresas, aplicando boas práticas de desenvolvimento, metodologias ágeis e foco em qualidade de software. Interesse em gamificação, experiência do usuário e liderança técnica.
+
+
 
 ## 📊 Estatísticas
 <div>
