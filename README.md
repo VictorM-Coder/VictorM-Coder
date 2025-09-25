@@ -6,6 +6,7 @@
 
 ##
 
+
 # 👋 Olá, Mundo! Eu sou Victor Martins
 
 ### 📝 Apresentação
@@ -31,8 +32,8 @@ Graduado em Engenharia de Software na UFC, com experiência prática em desenvol
 
 ## 📊 Estatísticas
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VictorM-Coder&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Coder&layout=compact&show_icons=true&theme=tokyonight&hide=c,CMake,c%2B%2B" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorM-Coder&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Coder&layout=compact&show_icons=true&theme=tokyonight&hide=c,CMake,c%2B%2B" />
 </div>
 
 <br>
