@@ -1,12 +1,3 @@
-##
-<br>
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF0dm5yNmo1dWlpMjZmZHZoYnE3aGdnaWp5eWxvNDkxcnhhYm92YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif"  />
-</div>
-
-##
-
-
 # 👋 Olá, Mundo! Eu sou Victor Martins
 
 ### 📝 Apresentação
